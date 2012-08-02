@@ -1,11 +1,11 @@
-title : Blog Title
-tagline: Blog Tagline
+title : PageNote 's Blog
+tagline: 互联网 知识管理 Note
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : aboleab
+  email : aboleab@gmail.com
+  github : aboleab
+  twitter : aboleab
+  feedburner : aboleab
 
 navigation :
   - archive.html
